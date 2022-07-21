@@ -20,7 +20,9 @@
                         <div class="row">
                             <div class="col">
                                 <center>
-                                    <img src="imgs/books.png" width="100" />                              
+                                    <img src="imgs/books.png" width="100" />  
+                                    <h>                            
+                                    </h>
                                 </center>
                             </div>
                         </div>
